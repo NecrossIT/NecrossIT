@@ -7,6 +7,10 @@
 
 - 🔭 I’m currently working on **several projects**
 
+- 📫 How to reach me **kelvin.bill@necross.it**
+
+- ⚡ Fun fact **I love Go**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
